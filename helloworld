@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<head>
+<title>hello world</title>
+<meta charset="UTF-8">
+
+<style>
+  body{
+
+margin:0 ; 
+
+padding:0;
+
+}
+
+h1{
+
+color:#DCDCDC;
+
+font-size:10rem; 
+
+}
+
+
+main{
+
+display:flex ;
+justify-content:center ; 
+
+width:100%;
+
+height:45vh; 
+
+background-image:url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?t=st=1727700837~exp=1727704437~hmac=af56cf8cae23c51b5fc3eb9983ccbf3302f68752ae9b280059466343c6c55b9b&w=1480);
+}
+
+footer{
+
+display:flex ; 
+justify-content:center ; 
+
+height:55vh; 
+
+align-items:center; 
+
+
+
+}
+
+footer p {
+
+font-size:3rem; 
+ 
+
+}
+
+footer p:hover{
+
+color:#008000;
+
+}
+
+  
+</style>  
+
+</head>
+
+<body>
+<main>
+<h1>HELLO WORLD</h1>
+</main>
+<footer>
+<p>I'm here to learn how to code and create wonderfull projects</p>
+
+</footer>
+</body>
