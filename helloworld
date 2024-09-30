@@ -31,7 +31,7 @@ width:100%;
 
 height:45vh; 
 
-background-image:url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?t=st=1727700837~exp=1727704437~hmac=af56cf8cae23c51b5fc3eb9983ccbf3302f68752ae9b280059466343c6c55b9b&w=1480);
+background-image:url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?t=st=1727700837~exp=1727704437~hmac=af56cf8cae23c51b5fc3eb9983ccbf3302f68752ae9b280059466343c6c55b9b&w=1480");
 }
 
 footer{
